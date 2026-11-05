@@ -16,6 +16,7 @@ namespace Task1
             Console.WriteLine("Внесли зміни в розв'язок 2");
             Console.WriteLine("Внесли зміни до проєкту");
             Console.WriteLine("Друге оновлення проєкту");
+            Console.WriteLine("ДРУГЕ ОНОВЛЕННЯ ДОМАШНЬОГО ЗАВДАННЯ 1");
         }
     }
 }
