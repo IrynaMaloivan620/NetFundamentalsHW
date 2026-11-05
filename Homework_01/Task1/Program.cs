@@ -14,6 +14,7 @@ namespace Task1
             Console.WriteLine("My first C# program");
             Console.WriteLine("Внесли зміни в розв'язок");
             Console.WriteLine("Внесли зміни в розв'язок 2");
+            Console.WriteLine("Внесли зміни до проєкту");
         }
     }
 }
